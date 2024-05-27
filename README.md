@@ -9,7 +9,7 @@
   
 <Main class="conteudo principal">
   <section>
-    <p>Meus contatos: </p>
+    <h2>Meus contatos: </h2>
     <a href"">
     <a href"">
     <a href"">
