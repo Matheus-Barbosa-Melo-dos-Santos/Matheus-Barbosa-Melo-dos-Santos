@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**Matheus-Barbosa-Melo-dos-Santos/Matheus-Barbosa-Melo-dos-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Bem vindo!
+### Olá, meu nome é Matheus e bom... cá estão alguns de meus projetos.
+#### Sobre mim... 
+* Estudante de Engenharia de Controle Automação.
+* Aprendendo Python e alguns de seus frameworks
+* Aprendendo Javascript e seus frameworks.
+* Aprendendo C e C++.
+* e outras coisas que pode encontrar aqui.
+  
+<Main class="conteudo principal">
+  <section>
+    <p>Meus contatos: </p>
+    <a href"">
+    <a href"">
+    <a href"">
+  </section>
+  <section>
+    <p>Confira também!</p>
+  </section>
+</Main>
+        
+##### Siga-me para mais!
